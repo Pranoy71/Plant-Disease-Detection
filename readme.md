@@ -20,7 +20,8 @@ The model is trained using the **PlantVillage dataset**, obtained from **Kaggle*
 The dataset consists of RGB images of plant leaves captured under controlled conditions. Each image corresponds to a specific plant–disease combination, including healthy and diseased leaf states.
 
 Dataset characteristics:
-- Source: Kaggle (PlantVillage Dataset) <---`<https://huggingface.co/datasets/Pranoy71/PlantVillage>`--->
+- Source: Kaggle (PlantVillage Dataset) <---`https://huggingface.co/datasets/Pranoy71/PlantVillage`--->
+- Dataset: <https://huggingface.co/datasets/Pranoy71/PlantVillage>
 - Image type: Color (RGB)
 - Number of classes: **38**
 - Class structure: Each class represents a unique plant species and disease condition
