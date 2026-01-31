@@ -29,10 +29,6 @@ env/
 *.log
 *.tmp
 
-# Model and large artifact files (ignore binary models until you decide to store them)
-*.h5
-*.keras
-*.tflite
-new_custom.h5
-new_custom.keras
-new_custom.tflite
+# Model files: keep tracked (committed intentionally)
+# If you later want to stop tracking binary models, re-add patterns here.
+
