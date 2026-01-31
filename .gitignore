@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.pyd
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# IDEs and editors
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Model and large artifact files (ignore binary models until you decide to store them)
+*.h5
+*.keras
+*.tflite
+new_custom.h5
+new_custom.keras
+new_custom.tflite
